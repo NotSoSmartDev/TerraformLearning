@@ -1,0 +1,4 @@
+/aws_creds.txt
+.terraform
+*.tfstate
+*.tfstate.backup
